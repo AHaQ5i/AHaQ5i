@@ -1,4 +1,4 @@
-# 🚀 AHaQ5i – AI & Cloud Solution Architect
+# 🚀 AHaQ – AI & Cloud Solution Architect
 
 👋 Hi, I’m **@AHaQ**, an AI & Cloud Solution Architect specializing in **NLP, GenAI, LLM architectures, and scalable AI solutions**.
 
